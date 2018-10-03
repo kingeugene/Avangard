@@ -1,0 +1,162 @@
+
+#hikashop_category_information_module_116 div.hikashop_subcontainer,
+#hikashop_category_information_module_116 .hikashop_rtop *,
+#hikashop_category_information_module_116 .hikashop_rbottom * {
+    background: #fff
+}
+
+#hikashop_category_information_module_116 div.hikashop_subcontainer,
+#hikashop_category_information_module_116 div.hikashop_subcontainer span,
+#hikashop_category_information_module_116 div.hikashop_container {
+    text-align: center
+}
+
+#hikashop_category_information_module_116 div.hikashop_container {
+    margin: 10px 10px
+}
+
+#hikashop_category_information_module_116 .hikashop_subcontainer {
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -khtml-border-radius: 5px;
+    border-radius: 5px
+}
+
+#sp-top-bar {
+    background-color: #fff;
+    color: #000
+}
+
+#sp-shapka {
+    background: linear-gradient(to right, #025e39 0%, #00923a 28%, #00923a 35%, #00923a 44%, #00923a 44%, #00923a 53%, #00923a 70%, #00923a 70%, #025e39 100%, #025e39 100%);
+    background-repeat: repeat-x;
+    background-size: inherit;
+    background-position: 50% 100%;
+    background-color: #1a3326;
+    padding: 20px 0 50px 0;
+    margin: 0 0 -50px 0
+}
+
+#sp-main-slider {
+    background-color: #1a3326
+}
+
+#sp-last-match {
+    background-color: #fff;
+    color: #1c2522;
+    padding: 0;
+    margin: 0
+}
+
+#sp-slider-match-and-table {
+    background-image: url(https://vorskla.com.ua/images/system/bg/match-table-bg.jpg.pagespeed.ce.Z-XCG6Ak6S.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #0a1f0f
+}
+
+#sp-gallery {
+    background-image: url(/images/system/bg/foto-gallery-bg.jpg.pagespeed.ce.WgM-q4xlN7.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50% 0;
+    padding: 0 0 75px 0
+}
+
+#sp-article-banner {
+    padding: 0 0
+}
+
+#sp-articles {
+    background-image: url(/images/system/bg/atricles.jpg.pagespeed.ce.UdO9141w1P.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50% 0;
+    padding: 65px 0
+}
+
+#sp-instagram {
+    background-image: url(/images/system/bg/instagram-bg.jpg.pagespeed.ce.XITxCly0wZ.jpg);
+    padding: 45px 0 75px 0
+}
+
+#sp-shop {
+    padding: 35px 0 55px 0
+}
+
+#sp-medium-color-banners {
+    background-image: url(/images/system/bg/medium-banners-bg.jpg.pagespeed.ce.2hsCYeRyI-.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50% 0;
+    padding: 65px 0 65px 0
+}
+
+#sp-footer-grey-banners {
+    background-color: #ebf0ed;
+    padding: 0 0 30px 0
+}
+
+#sp-otherbanners {
+    background-color: #ebf0ed;
+    padding: 0 0 15px 0
+}
+
+#sp-footer {
+    background-image: url(/images/system/bg/footer-bg.png.pagespeed.ce.wfuEaE6VRv.png);
+    background-repeat: repeat-x;
+    background-size: cover;
+    background-position: 50% 50%;
+    background-color: #19231e;
+    padding: 30px 5%
+}
+
+#hikashop_category_information_module_114 div.hikashop_subcontainer,
+#hikashop_category_information_module_114 .hikashop_rtop *,
+#hikashop_category_information_module_114 .hikashop_rbottom * {
+    background: #fff
+}
+
+#hikashop_category_information_module_114 div.hikashop_subcontainer,
+#hikashop_category_information_module_114 div.hikashop_subcontainer span,
+#hikashop_category_information_module_114 div.hikashop_container {
+    text-align: center
+}
+
+#hikashop_category_information_module_114 div.hikashop_container {
+    margin: 10px 10px
+}
+
+#hikashop_category_information_module_114 .hikashop_product_image {
+    height: 250px
+}
+
+#hikashop_category_information_module_114 .hikashop_product_image_subdiv {
+    width: 250px
+}
+
+#mod-speasyimagegallery-101 .speasyimagegallery-row {
+    margin: -.5px
+}
+
+#mod-speasyimagegallery-101 .speasyimagegallery-row .speasyimagegallery-album {
+    padding: .5px
+}
+
+@media only screen and (max-width:992px) {
+    #mod-speasyimagegallery-101 .speasyimagegallery-row {
+        margin: -.5px
+    }
+    #mod-speasyimagegallery-101 .speasyimagegallery-row .speasyimagegallery-album {
+        padding: .5px
+    }
+}
+
+@media only screen and (max-width:768px) {
+    #mod-speasyimagegallery-101 .speasyimagegallery-row {
+        margin: -.5px
+    }
+    #mod-speasyimagegallery-101 .speasyimagegallery-row .speasyimagegallery-album {
+        padding: .5px
+    }
+}
